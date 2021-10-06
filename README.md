@@ -1,6 +1,7 @@
 ---
 languages:
 - csharp
+- dotnet
 - aspx-csharp
 page_type: sample
 description: "This is a sample application you can use to follow along w/ the Build a .NET Core and SQL Database web app in Azure Web Apps for Containers tutorial."
